@@ -19,4 +19,3 @@ How to Run
 
 1. Install Flask:
    ```bash
-   pip install flask
